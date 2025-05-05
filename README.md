@@ -1,4 +1,4 @@
-[- 👋 Hi, I’m @devesh-compsci aka Devesh Sharma 👋
+[- 👋 Hi, I’m @devesh-compsci aka Devesh Sharma 
 🎓 B.Tech in Biomedical Engineering | NIT Raipur  
 🧠 Passionate about Full Stack Development & UI/UX  
 🛠️ Currently working on: My Skills  
