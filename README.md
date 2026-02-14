@@ -1,13 +1,13 @@
 # 👋 Devesh Sharma
 
-Biomedical Engineering @ NIT Raipur  
+Engineering @ NIT Raipur  
 Building systems at the intersection of signal processing, software, and design.
 
 ---
 
 ## ⚡ Focus Areas
 
-- 🧠 Biomedical Signal Processing
+- 🐧 UNIX Based Systems (Linux & Mac)
 - 💻 Systems Programming (C / C++)
 - 🖥 Desktop Application Development (Python, PyQt)
 - 🎨 UI/UX & Visual Design
