@@ -39,7 +39,7 @@ Building systems at the intersection of signal processing, software, and design.
 
 ## 🚀 Current Project
 
-**Note Analyzer**  
+### **Note Analyzer**  
 Offline-first document analysis tool integrating:
 - OCR
 - PDF parsing
