@@ -1,11 +1,11 @@
-# 👋 Devesh Sharma
+# Devesh Sharma
 
 Engineering @ NIT Raipur  
 Building systems at the intersection of signal processing, software, and design.
 
 ---
 
-## ⚡ Focus Areas
+## Focus Areas
 
 - 🐧 UNIX Based Systems (Linux & Mac)
 - 💻 Systems Programming (C / C++)
